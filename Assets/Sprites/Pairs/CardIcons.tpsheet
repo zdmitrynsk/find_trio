@@ -1,0 +1,30 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:62e779eaf079f4c07c71915b584f1d95:9f8997562ad8e1e4b45eba59ec0078c6:5aae8b01f001696757056199ab04e538$
+#
+:format=40300
+:texture=CardIcons.png
+:size=512x1024
+:pivotpoints=enabled
+:borders=disabled
+
+card_back;1;895;128;128; 0.5;0.5; 0;0;0;0
+card_icon_1;131;895;128;128; 0.5;0.5; 0;0;0;0
+card_icon_2;261;635;128;128; 0.5;0.5; 0;0;0;0
+card_icon_3;1;505;128;128; 0.5;0.5; 0;0;0;0
+card_icon_4;131;505;128;128; 0.5;0.5; 0;0;0;0
+card_icon_5;261;505;128;128; 0.5;0.5; 0;0;0;0
+card_icon_6;1;375;128;128; 0.5;0.5; 0;0;0;0
+card_icon_7;1;245;128;128; 0.5;0.5; 0;0;0;0
+card_icon_8;1;115;128;128; 0.5;0.5; 0;0;0;0
+card_icon_9;131;375;128;128; 0.5;0.5; 0;0;0;0
+card_icon_10;261;895;128;128; 0.5;0.5; 0;0;0;0
+card_icon_11;1;765;128;128; 0.5;0.5; 0;0;0;0
+card_icon_12;131;765;128;128; 0.5;0.5; 0;0;0;0
+card_icon_13;261;765;128;128; 0.5;0.5; 0;0;0;0
+card_icon_14;1;635;128;128; 0.5;0.5; 0;0;0;0
+card_icon_15;131;635;128;128; 0.5;0.5; 0;0;0;0

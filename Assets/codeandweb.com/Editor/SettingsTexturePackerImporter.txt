@@ -1,0 +1,18 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Sprites/Pairs/CardIcons.tpsheet
+- Assets/Sprites/Pairs/Editor/CardIcons.tpsheet
+- Assets/Sprites/Pairs/Editor/Ui.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Sprites/Pairs/CardIcons.png
+- Assets/Sprites/Pairs/Editor/CardIcons.png
+- Assets/Sprites/Pairs/Editor/Ui.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+enableDebugOutput: 0
